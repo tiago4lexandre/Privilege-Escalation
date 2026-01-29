@@ -1,8 +1,43 @@
-2026-01-20 12:43
+<!-- ===================== -->
+<!--  Linux PrivEsc Guide  -->
+<!-- ===================== -->
 
-Status: #developed #segurança 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Developed-2ea44f?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Privilege%20Escalation-critical?style=for-the-badge">
+</p>
 
-Tags: [[CyberSecurity]] | [[Linux]]
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Cybersecurity-0A66C2?style=flat-square&logo=securityscorecard&logoColor=white">
+  <img src="https://img.shields.io/badge/Pentest-red?style=flat-square">
+  <img src="https://img.shields.io/badge/CTF-Informational?style=flat-square">
+</p>
+
+---
+
+# 🐧 Linux Privilege Escalation
+
+> 📌 Documento técnico voltado ao estudo, enumeração e exploração de **escalamento de privilégios em sistemas Linux**, com foco em **ambientes de laboratório, pentest e CTFs**.
+
+---
+
+### 📅 Informações do Documento
+
+- **Data:** 2026-01-20  
+- **Status:** `developed`  
+- **Nível:** Intermediário → Avançado  
+- **Ambiente:** Linux (Ubuntu / Debian-based)  
+
+---
+
+### 🏷️ Tags
+
+`#CyberSecurity` `#Linux` `#PrivilegeEscalation` `#Pentest` `#RedTeam` `#BlueTeam`  
+`#TryHackMe` `#CTF` `#OffensiveSecurity` `#DefensiveSecurity`
+
+---
+
 
 ---
 # Introdução
